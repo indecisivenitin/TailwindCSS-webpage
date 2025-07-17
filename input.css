@@ -1,31 +1,31 @@
 @import "tailwindcss";
 #img-1{
-    background-image: url("/assets/asset\ 42.png");
+    background-image: url("./assets/asset\ 42.png");
     background-size: cover;
     border-radius: 50%;
 }
 #img-2{
-    background-image: url("/assets/asset\ 43.jpeg");
+    background-image: url("./assets/asset\ 43.jpeg");
     background-size: cover;
     border-radius: 50%;
 }
 #img-3{
-    background-image: url("/assets/asset\ 44.png");
+    background-image: url("./assets/asset\ 44.png");
     background-size: cover;
     border-radius: 50%;
 }
 #img-4{
-    background-image: url("/assets/asset\ 45.jpeg");
+    background-image: url("./assets/asset\ 45.jpeg");
     background-size: cover;
     border-radius: 50%;
 }
 #img-5{
-    background-image: url("/assets/asset\ 46.png");
+    background-image: url("./assets/asset\ 46.png");
     background-size: cover;
     border-radius: 50%;
 }
 #img-6{
-    background-image: url("/assets/asset\ 47.jpeg");
+    background-image: url("./assets/asset\ 47.jpeg");
     background-size: cover;
     border-radius: 50%;
 }
